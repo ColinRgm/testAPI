@@ -4,5 +4,5 @@ return [
     'host' => 'localhost',
     'dbname' => 'testAPI',
     'username' => 'root',
-    'password' => ''
+    'password' => 'cheh'
 ];
